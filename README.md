@@ -3,10 +3,12 @@
 ## Sites Desenvolvidos
 Sites e Aplicações desenvolvidos para Agências e Empresas.
 
-### O Que faço!! [![](http://jobs.ruah.digital/site.gif)](#)
+### O Que faço!! 
 - 🔸 Sites
-- 🔸 Loja Virtual
+- 🔸 Ecommerce
+- 🔸 Sistemas Web
 - 🔸 Portais
 - 🔸 Blogs 
 - 🔸 LandingPages
+- 🔸 Aplicativos para celular
 
