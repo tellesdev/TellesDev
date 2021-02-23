@@ -4,11 +4,9 @@
 Sites e Aplicações desenvolvidos para Agências e Empresas.
 
 ### O Que faço!! 
-- 🔸 Sites
+- 🔸 Sites, Portais, Blogs e LandingPages
 - 🔸 Ecommerce
 - 🔸 Sistemas Web
-- 🔸 Portais
-- 🔸 Blogs 
-- 🔸 LandingPages
+- 🔸 Integrações e API
 - 🔸 Aplicativos para celular
 
