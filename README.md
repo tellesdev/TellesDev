@@ -1,4 +1,5 @@
 # Olá, eu sou Alexsander (Telles.dev)
+(https://scontent.fcfc5-1.fna.fbcdn.net/v/t1.0-9/120483474_125341875983654_6165344489771758978_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeEvtL-0uN3tAEUQDM3aBSBfsEXzeVW8og6wRfN5VbyiDtYP03f_nmcUXWUGq0jnDB7EWmVVWhrYPqVEkK_51Vzw&_nc_ohc=WWquZP8s0bYAX9LNk3Y&_nc_ht=scontent.fcfc5-1.fna&oh=738a678ea48a481142adddbf1519c5bf&oe=607EA3FD)
 
 Sou um eterno aprendiz (Agora velho aprendiz) em constante evolução, sou apaixonado por tecnologia, sou muito curioso estou sempre trocando feedback com o time de design, redação e até social media, gosto de fazer essa interação com todos os times envolvidos. Gosto de conversar com o cliente para poder entender a sua necessidade, para lhe entregar um produto que atenda as suas necessidades. 
 
