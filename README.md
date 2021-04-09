@@ -21,9 +21,9 @@ Atualmente trabalho com { frontend } mas já me aventurei como { backend, fronte
 - { Mobile } 📱 - React native, Flutter e Dart.
 
 #### Formação
-- Cursondo Tecnologia em Desenvolvimento Web na Unopar
-- Administração de empresa pela Anhanguera (Nunca trabalhei na área)
-- Técnico em Gestão da Qualidade
+- Cursondo Tecnologia em Desenvolvimento Web na Unopar,
+- Administração de empresa pela Anhanguera,
+- Técnico em Gestão da Qualidade.
 
 #### O Que faço ou já fiz por ai
 - 🔸 Sites, Portais, Blogs e LandingPages
