@@ -1,7 +1,7 @@
 # Olá, eu sou Alexsander (Telles.dev)
 ![banner](https://user-images.githubusercontent.com/61851828/111919065-c61cb700-8a66-11eb-9062-c94b2e4f7875.jpeg)
 
-Sou um eterno aprendiz (Agora velho aprendiz) em constante evolução, sou apaixonado por tecnologia, sou muito curioso estou sempre trocando feedback com o time de design, redação e até social media, gosto de fazer essa interação com todos os times envolvidos. Gosto de conversar com o cliente para poder entender a sua necessidade, para lhe entregar um produto que atenda as suas necessidades. 
+Sou um eterno aprendiz (Agora velho aprendiz) em constante evolução, sou apaixonado por tecnologia, muito curioso, apaixonado por se aventurar em frentes que não estão na minha zona de conforto. Busco sempre estar em contato direto com outros times, como o time de design, redação e até social media, gosto de fazer essa interação com todos os times envolvidos, pois entendo que assim chegamos todos ao mesmo objetivo. Gosto de conversar com o cliente para poder entender a sua necessidade, para lhe entregar um produto que atenda as suas necessidades. 
 
 Estou sempre estar me atualizando, estudando, para buscar atender as necessidades de cada cliente independentemente produto ou necessidade. 
 
